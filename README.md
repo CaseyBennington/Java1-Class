@@ -1,3 +1,3 @@
 # Java1-Class
 
-Materials for VWCC Java1 Class Projects
+Coursework for VWCC Java1 Class Projects
